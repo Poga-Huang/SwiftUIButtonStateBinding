@@ -11,6 +11,7 @@
 		654E0FA72D38FC8F005E81E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654E0FA62D38FC8F005E81E7 /* ContentView.swift */; };
 		654E0FA92D38FC91005E81E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 654E0FA82D38FC91005E81E7 /* Assets.xcassets */; };
 		654E0FAC2D38FC91005E81E7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 654E0FAB2D38FC91005E81E7 /* Preview Assets.xcassets */; };
+		654E0FB32D38FCBC005E81E7 /* GradientStyleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654E0FB22D38FCBC005E81E7 /* GradientStyleButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		654E0FA62D38FC8F005E81E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		654E0FA82D38FC91005E81E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		654E0FAB2D38FC91005E81E7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		654E0FB22D38FCBC005E81E7 /* GradientStyleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientStyleButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				654E0FA42D38FC8F005E81E7 /* SwiftUIButtonStateBindingApp.swift */,
 				654E0FA62D38FC8F005E81E7 /* ContentView.swift */,
+				654E0FB22D38FCBC005E81E7 /* GradientStyleButton.swift */,
 				654E0FA82D38FC91005E81E7 /* Assets.xcassets */,
 				654E0FAA2D38FC91005E81E7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				654E0FB32D38FCBC005E81E7 /* GradientStyleButton.swift in Sources */,
 				654E0FA72D38FC8F005E81E7 /* ContentView.swift in Sources */,
 				654E0FA52D38FC8F005E81E7 /* SwiftUIButtonStateBindingApp.swift in Sources */,
 			);
